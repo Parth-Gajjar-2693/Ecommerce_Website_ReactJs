@@ -32,7 +32,11 @@ Features:
 Tech Stack:
 -----------
 React.js: Frontend library for building user interfaces.
+
 Tailwind CSS: Utility-first CSS framework for styling.
+
 Firebase: Backend for user authentication and data management.
+
 React Router DOM: Handles client-side routing for seamless navigation.
+
 React Toastify: Provides notifications for user interactions.
